@@ -1,10 +1,10 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Bouncer",
-    "version": "1.0.1",
+    "version": "2.0.1",
   
     "description": "Master ad-blocking for YouTube. Say goodbye to interruptions! Elevate your viewing experience today.",
-    "homepage_url": "https://github.com/eleslie-xy",
+    "homepage_url": "https://github.com/leslieetubo/Bouncer",
     "icons": {
       "48": "icons/bouncer.png"
     },
@@ -15,7 +15,7 @@
         "js": ["block.js"]
       }
     ],
-    "permissions": ["activeTab"],
+    "permissions": [],
 
     "browser_action": {
         "default_icon": "icons/bouncer.png",
