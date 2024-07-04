@@ -17,7 +17,12 @@
     ],
     "permissions": [],
 
-    "browser_action": {
+    // "browser_action": {
+    //     "default_icon": "icons/bouncer.png",
+    //     "default_title": "Bouncer",
+    //     "default_popup": "popup/bounce.html"
+    // }
+    "action": {
         "default_icon": "icons/bouncer.png",
         "default_title": "Bouncer",
         "default_popup": "popup/bounce.html"
